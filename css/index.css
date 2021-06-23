@@ -24,6 +24,8 @@ a {
     min-height: 100vh;
     background-color: #fff;
     padding: 10px;
+    max-width: 384px;
+    margin: auto;
 }
 
 .form-item{
